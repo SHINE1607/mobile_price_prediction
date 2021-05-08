@@ -37,3 +37,13 @@ From the heatmap, we can see significance correlation of the target variable wit
 From the barplot, except ram, all other attributes have a dip in the plot for price range 2, this can be due to iphone models like 11 and XR who tightwad when it comes to adding features
 
 
+## final model
+Models used:
+* ###linear svc
+  * accuracy = 95.17
+* ### Decision tree
+  * accuracy(entropy) = 82.15
+  * accuracy(gini) = 82.15
+* ### knn
+  * accuracy = 90.23   
+
