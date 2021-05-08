@@ -39,7 +39,7 @@ From the barplot, except ram, all other attributes have a dip in the plot for pr
 
 ## final model
 Models used:
-* ###linear svc
+* ### linear svc
   * accuracy = 95.17
 * ### Decision tree
   * accuracy(entropy) = 82.15
