@@ -27,12 +27,12 @@ The Data attributes included are:
 Train data had 1800 rows and 21 columns
 
 ## Correlation matrix
-![alt text](./images/correlation_heatmap)
+![alt text](./images/correlation_heatmap.png)
 
 From the heatmap, we can see significance correlation of the target variable with ram, bettery_power, pixel_width, pixel_height
 
 ## Barpot 
-![alt text](./images/barpot)
+![alt text](./images/barpot.png)
 
 From the barplot, except ram, all other attributes have a dip in the plot for price range 2, this can be due to iphone models like 11 and XR who tightwad when it comes to adding features
 
